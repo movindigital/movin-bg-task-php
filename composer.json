@@ -1,10 +1,6 @@
 {
-    // package name
     "name": "movin/movin_bg_task_php",
-
-    // package type
     "type": "yii2-extension",
-
     "description": "Run background php scripts under Linux or Windows",
     "keywords": ["yii2", "php", "movin", "background", "task"],
     "license": "BSD-3-Clause",
@@ -18,13 +14,9 @@
             "email": "fernando@movindigital.com.br"
         }
     ],
-
-    // package dependencies
     "require": {
         "yiisoft/yii2": "*"
     },
-
-    // class autoloading specs
     "autoload": {
         "psr-4": {
             "movin\\movin_bg_task_php\\": ""
