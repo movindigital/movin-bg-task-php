@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "movin\\movin_bg_task_php\\": ""
+            "movin\\movin_bg_task_php\\": "src/"
         }
     }
 }
